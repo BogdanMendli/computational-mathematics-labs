@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/Apollo/rkf45.h
+
+/Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/lab3.cpp
+cstdio
+-
+cmath
+-
+iostream
+-
+Apollo/rkf45.h
+/Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/Apollo/rkf45.h
+

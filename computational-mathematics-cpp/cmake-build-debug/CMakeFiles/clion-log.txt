@@ -1,0 +1,4 @@
+"/Users/bogdan.mashchenko/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.6015.37/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/cmake-build-debug

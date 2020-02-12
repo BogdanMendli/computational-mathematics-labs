@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="computational_mathematics" targetName="computational_mathematics" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="372ac2f0-04e7-4b72-afce-44e978e76a02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Apollo/Lagrange.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apollo/Lagrange.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apollo/Forsythe.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Apollo/Forsythe.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apollo/quanc8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Apollo/quanc8.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Apollo" />
+  </component>
+  <component name="ProjectId" id="1XYtWf5iV8Gm2eULa5C41T5M2tw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="computational_mathematics" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="computational_mathematics" TARGET_NAME="computational_mathematics" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="computational_mathematics" RUN_TARGET_NAME="computational_mathematics">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="372ac2f0-04e7-4b72-afce-44e978e76a02" name="Default Changelist" comment="" />
+      <created>1581234888325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581234888325</updated>
+      <workItem from="1581234891992" duration="1674000" />
+      <workItem from="1581236770907" duration="10643000" />
+      <workItem from="1581255717226" duration="245000" />
+      <workItem from="1581270262634" duration="696000" />
+      <workItem from="1581443817022" duration="8566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581246362154">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581246362154" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1581524427548">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581524427548" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1581255612739" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1581524427547">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581524427547" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1581255612739" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1581524427546">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581524427546" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1581255612738" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1581524427548">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581524427548" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1581255612739" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1581524792256">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1581524792256" />
+    <state x="517" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1581443823494">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="517" y="371" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581443823494" />
+    <state x="498" y="282" width="683" height="486" key="find.popup" timestamp="1581241754400">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="498" y="282" width="683" height="486" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1581241754400" />
+    <state x="562" y="162" key="refactoring.ChangeSignatureDialog" timestamp="1581240989361">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="562" y="162" key="refactoring.ChangeSignatureDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581240989361" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1581524788159">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1581524788159" />
+  </component>
+</project>
