@@ -32,13 +32,13 @@ int main() {
     double kTemporary[2];
     double Zn[2];
 
-    std::cout << std::endl << "punct a) RKF4 4 degree for H_int = 0.01" << std::endl << std::endl;
+    std::cout << std::endl << "punct a) runge-kyte H_int = 0.01" << std::endl << std::endl;
     X0[0] = 0;
     X0[1] = 1;
     T = 0;
     h = 0.01;
 
-    for (int i = 0; T < 1.01; i++) {
+    for (int i = 0; T < 1.0001; i++) {
 
         sourceFunction(T, X0, K1);
 
@@ -81,15 +81,14 @@ int main() {
 
         T += h;
     }
-
+    h = 2.785 / 300;
     std::cout << std::endl << "---------------------------------------" << std::endl;
-    std::cout << std::endl << "punct b) RKF4 4 degree for H_int = 0.0008" << std::endl << std::endl;
+    std::cout << std::endl << "punct b) runge-kyte H_int = " << h << std::endl << std::endl;
     X0[0] = 0;
     X0[1] = 1;
     T = 0;
-    h = 0.0008;
 
-    for (int i = 0; T < 1.005; i++) {
+    for (int i = 0; T < 1.0001; i++) {
 
         sourceFunction(T, X0, K1);
 
@@ -126,7 +125,7 @@ int main() {
         X0[0] = Zn[0];
         X0[1] = Zn[1];
 
-        if (!(i % 20)) {
+        if (!(i % 2)) {
             printf("T = %.2f,\t X = (%.6f; %.6f)\n", T, Zn[0], Zn[1]);
         }
 

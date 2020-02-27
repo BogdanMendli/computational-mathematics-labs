@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/Apollo/rkf45.h
+/Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/Apollo/rkf45.h
 
-/Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/lab3.cpp
+/Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/lab3.cpp
 cstdio
 -
 cmath
@@ -16,5 +16,5 @@ cmath
 iostream
 -
 Apollo/rkf45.h
-/Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/Apollo/rkf45.h
+/Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/Apollo/rkf45.h
 

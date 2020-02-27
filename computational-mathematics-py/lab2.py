@@ -9,7 +9,14 @@ matrixA = numpy.asmatrix([[13.0, 2.0, 8.0, -7.0, 7.0, 5.0, -7.0, -7.0],
                           [-8.0, -6.0, -4.0, 7.0, -5.0, -5.0, -2.0, 1.0],
                           [5.0, 5.0, -2.0, -2.0, -3.0, 0.0, -7.0, 14.0]])
 
-matrixB = numpy.asmatrix([[6.0], [36.0], [-25.0], [-57.0], [32.0], [62.0], [-71.0], [70.0]])
+matrixB = numpy.asmatrix([[6.0],
+                          [36.0],
+                          [-25.0],
+                          [-57.0],
+                          [32.0],
+                          [62.0],
+                          [-71.0],
+                          [70.0]])
 
 pValues = [1.0, 0.1, 0.01, 0.0001, 0.000001]
 
@@ -21,20 +28,16 @@ for p in pValues:
           + str(matrixA[0, 0]))
     print("B(0,0):\t"
           + str(matrixB[0, 0]))
+    X1 = numpy.linalg.solve(matrixA, matrixB)
     print("X1: \n"
-          + str(numpy.linalg.solve(
-                matrixA,
-                matrixB))
+          + str(X1)
           + "\n\n")
     newMatrixA = matrixA.transpose() * matrixA
     newMatrixB = matrixA.transpose() * matrixB
+    X2 = numpy.linalg.solve(newMatrixA, newMatrixB)
     print('X2: \n'
-          + str(numpy.linalg.solve(newMatrixA, newMatrixB))
+          + str(X2)
           + "\n\n")
-    print("COND - P: \n"
-          + str(numpy.linalg.cond(matrixA)
-                - (numpy.linalg.solve(matrixA, matrixB)
-                   - numpy.linalg.solve(newMatrixA, newMatrixB)
-                   / numpy.linalg.solve(newMatrixA, newMatrixB)))
-          + "\n")
+    print("COND = " + str(numpy.linalg.cond(matrixA)) + "\n")
+    print("delta = || x1 - x2 || / || x1 || = \n" + str((X1 - X2) / X1))
     print("----------------------------------------------\n")

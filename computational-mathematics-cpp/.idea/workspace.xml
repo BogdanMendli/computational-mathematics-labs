@@ -14,8 +14,44 @@
     <list default="true" id="372ac2f0-04e7-4b72-afce-44e978e76a02" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Apollo/Lagrange.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Apollo/Lagrange.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Apollo/Forsythe.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Apollo/Forsythe.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Apollo/quanc8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Apollo/quanc8.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/Apollo/Lagrange.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/lab3.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/lab3.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/computational_mathematics.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/computational_mathematics" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/computational_mathematics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/computational_mathematics.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/computational_mathematics.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lab3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../computational-mathematics-py/.idea/$CACHE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../computational-mathematics-py/.idea/codeStyles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../computational-mathematics-py/.idea/computational-mathematics-py.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../computational-mathematics-py/.idea/dictionaries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../computational-mathematics-py/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../computational-mathematics-py/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../computational-mathematics-py/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../computational-mathematics-py/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../computational-mathematics-py/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../computational-mathematics-py/lab1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../computational-mathematics-py/lab2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +63,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Apollo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1XYtWf5iV8Gm2eULa5C41T5M2tw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,6 +100,8 @@
       <workItem from="1581255717226" duration="245000" />
       <workItem from="1581270262634" duration="696000" />
       <workItem from="1581443817022" duration="8566000" />
+      <workItem from="1581844835996" duration="2066000" />
+      <workItem from="1582794666737" duration="1277000" />
     </task>
     <servers />
   </component>
@@ -75,34 +113,34 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581246362154" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1581524427548">
+    <state width="1638" height="824" key="GridCell.Tab.0.bottom" timestamp="1582805503520">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581524427548" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1581255612739" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1581524427547">
+    <state width="1638" height="824" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582805503520" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1581887858979" />
+    <state width="1638" height="824" key="GridCell.Tab.0.center" timestamp="1582805503519">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581524427547" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1581255612739" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1581524427546">
+    <state width="1638" height="824" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582805503519" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1581887858977" />
+    <state width="1638" height="824" key="GridCell.Tab.0.left" timestamp="1582805503518">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581524427546" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1581255612738" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1581524427548">
+    <state width="1638" height="824" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582805503518" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1581887858976" />
+    <state width="1638" height="824" key="GridCell.Tab.0.right" timestamp="1582805503519">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581524427548" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1581255612739" />
-    <state x="341" y="164" key="SettingsEditor" timestamp="1581524792256">
+    <state width="1638" height="824" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582805503519" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1581887858978" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1581888962484">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1581524792256" />
-    <state x="517" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1581443823494">
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1581888962484" />
+    <state x="517" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1582794682270">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="517" y="371" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581443823494" />
+    <state x="517" y="371" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582794682270" />
     <state x="498" y="282" width="683" height="486" key="find.popup" timestamp="1581241754400">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -111,9 +149,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="562" y="162" key="refactoring.ChangeSignatureDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581240989361" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1581524788159">
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1581888958000">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1581524788159" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1581888958000" />
   </component>
 </project>

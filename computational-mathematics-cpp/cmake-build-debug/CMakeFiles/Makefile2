@@ -35,19 +35,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = "/Users/bogdan.mashchenko/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.6015.37/CLion.app/Contents/bin/cmake/mac/bin/cmake"
+CMAKE_COMMAND = "/Users/bogdan.mashchenko/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.6494.38/CLion.app/Contents/bin/cmake/mac/bin/cmake"
 
 # The command to remove a file.
-RM = "/Users/bogdan.mashchenko/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.6015.37/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E remove -f
+RM = "/Users/bogdan.mashchenko/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.6494.38/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp
+CMAKE_SOURCE_DIR = /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ preinstall:
 CMakeFiles/computational_mathematics.dir/all:
 	$(MAKE) -f CMakeFiles/computational_mathematics.dir/build.make CMakeFiles/computational_mathematics.dir/depend
 	$(MAKE) -f CMakeFiles/computational_mathematics.dir/build.make CMakeFiles/computational_mathematics.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target computational_mathematics"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target computational_mathematics"
 .PHONY : CMakeFiles/computational_mathematics.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/computational_mathematics.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/cmake-build-debug/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/computational_mathematics.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/computational_mathematics.dir/rule
 
 # Convenience name for target.

@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = "/Users/bogdan.mashchenko/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.6015.37/CLion.app/Contents/bin/cmake/mac/bin/cmake"
+CMAKE_COMMAND = "/Users/bogdan.mashchenko/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.6494.38/CLion.app/Contents/bin/cmake/mac/bin/cmake"
 
 # The command to remove a file.
-RM = "/Users/bogdan.mashchenko/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.6015.37/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E remove -f
+RM = "/Users/bogdan.mashchenko/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.6494.38/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp
+CMAKE_SOURCE_DIR = /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/computational_mathematics.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/computational_mathematics.dir/flags.make
 
 CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.o: CMakeFiles/computational_mathematics.dir/flags.make
 CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.o: ../Apollo/rkf45.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.o -c /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/Apollo/rkf45.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.o -c /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/Apollo/rkf45.cpp
 
 CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/Apollo/rkf45.cpp > CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/Apollo/rkf45.cpp > CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.i
 
 CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/Apollo/rkf45.cpp -o CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/Apollo/rkf45.cpp -o CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.s
 
 CMakeFiles/computational_mathematics.dir/lab3.cpp.o: CMakeFiles/computational_mathematics.dir/flags.make
 CMakeFiles/computational_mathematics.dir/lab3.cpp.o: ../lab3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/computational_mathematics.dir/lab3.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/computational_mathematics.dir/lab3.cpp.o -c /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/lab3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/computational_mathematics.dir/lab3.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/computational_mathematics.dir/lab3.cpp.o -c /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/lab3.cpp
 
 CMakeFiles/computational_mathematics.dir/lab3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/computational_mathematics.dir/lab3.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/lab3.cpp > CMakeFiles/computational_mathematics.dir/lab3.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/lab3.cpp > CMakeFiles/computational_mathematics.dir/lab3.cpp.i
 
 CMakeFiles/computational_mathematics.dir/lab3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/computational_mathematics.dir/lab3.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/lab3.cpp -o CMakeFiles/computational_mathematics.dir/lab3.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/lab3.cpp -o CMakeFiles/computational_mathematics.dir/lab3.cpp.s
 
 # Object files for target computational_mathematics
 computational_mathematics_OBJECTS = \
@@ -95,7 +95,7 @@ computational_mathematics: CMakeFiles/computational_mathematics.dir/Apollo/rkf45
 computational_mathematics: CMakeFiles/computational_mathematics.dir/lab3.cpp.o
 computational_mathematics: CMakeFiles/computational_mathematics.dir/build.make
 computational_mathematics: CMakeFiles/computational_mathematics.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable computational_mathematics"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable computational_mathematics"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/computational_mathematics.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/computational_mathematics.dir/clean:
 .PHONY : CMakeFiles/computational_mathematics.dir/clean
 
 CMakeFiles/computational_mathematics.dir/depend:
-	cd /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/cmake-build-debug /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/cmake-build-debug /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/cmake-build-debug/CMakeFiles/computational_mathematics.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/cmake-build-debug /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/cmake-build-debug /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/cmake-build-debug/CMakeFiles/computational_mathematics.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/computational_mathematics.dir/depend
 

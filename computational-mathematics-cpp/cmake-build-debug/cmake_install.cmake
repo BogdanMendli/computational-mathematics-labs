@@ -1,4 +1,4 @@
-# Install script for directory: /Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp
+# Install script for directory: /Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -21,7 +21,7 @@ lagrangeResult = lagrange(x, fx)
 
 for i in range(0, 19):
     print("Xk = " + str(xk[i])),
-    print(":\t SPLINE: " + str(splineResult[i])) ,
+    print(":\t SPLINE: " + str(splineResult[i])),
     print ("\tLAGRANGE: " + str(lagrangeResult(xk[i]))),
     print (" \t S - L: " + str(float(splineResult[i] - lagrangeResult(xk[i]))))
 

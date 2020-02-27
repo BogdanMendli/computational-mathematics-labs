@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/Apollo/rkf45.cpp" "/Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/cmake-build-debug/CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.o"
-  "/Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/lab3.cpp" "/Users/bogdan.mashchenko/github/politeh/computational-mathematics-cpp/cmake-build-debug/CMakeFiles/computational_mathematics.dir/lab3.cpp.o"
+  "/Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/Apollo/rkf45.cpp" "/Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/cmake-build-debug/CMakeFiles/computational_mathematics.dir/Apollo/rkf45.cpp.o"
+  "/Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/lab3.cpp" "/Users/bogdan.mashchenko/github/politeh/computational-mathematics-labs/computational-mathematics-cpp/cmake-build-debug/CMakeFiles/computational_mathematics.dir/lab3.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
